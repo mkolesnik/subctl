@@ -12,7 +12,7 @@ require (
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.20.0
 	github.com/pkg/errors v0.9.1
-	github.com/spf13/cobra v1.5.0
+	github.com/spf13/cobra v1.6.0
 	github.com/submariner-io/admiral v0.13.0-m2.0.20220616204116-c054a15f1c60
 	github.com/submariner-io/cloud-prepare v0.13.0-m2.0.20220726072231-78de7046e1bd
 	github.com/submariner-io/lighthouse v0.13.0-m2.0.20220621072741-0cd5c1da3f9c
@@ -71,7 +71,7 @@ require (
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/imdario/mergo v0.3.12 // indirect
-	github.com/inconshreveable/mousetrap v1.0.0 // indirect
+	github.com/inconshreveable/mousetrap v1.0.1 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
